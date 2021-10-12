@@ -1,0 +1,35 @@
+#nav-item-verde{color: limegreen;}
+
+.bg-menuinf{
+	background-color: red;
+	background-image: linear-gradient(to right, #135 , #357);
+}
+
+.nav-link{
+	color: white;
+}
+
+.card-title{
+	font-weight: bold;
+}
+
+.card{
+	width: 20%;
+}
+
+h7{
+	font-size: 80%;
+}
+.formulario{
+	width: 65%;
+}
+
+.botones{
+	border-style: none;
+	background-color: #6C6;
+}
+
+#mensaje{
+	border-style: none;
+	background-color: #9CF;
+}
